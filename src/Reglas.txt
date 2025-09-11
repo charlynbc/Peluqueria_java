@@ -1,0 +1,5 @@
+El programa tiene que tener horarios
+de abierta la peluqueria, y dias tambien, esos quedan reservados
+en cliente el mail es unico
+lista de precios
+se agregamn los servicios
