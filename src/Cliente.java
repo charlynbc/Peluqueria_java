@@ -1,8 +1,8 @@
 public class Cliente{
 
-    String email;
-    String nombre;
-    int edad;
+    private String email;
+    private String nombre;
+    private int edad;
 
     public Cliente(String email, String nombre, int edad){
         this.email= email;

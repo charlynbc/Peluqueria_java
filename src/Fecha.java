@@ -1,7 +1,7 @@
 public class Fecha{
-    int dia;
-    int mes;
-    int anio;
+    private int dia;
+    private int mes;
+    private int anio;
 
     public Fecha(int dia, int mes, int anio){
         this.dia= dia;
