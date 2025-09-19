@@ -1,6 +1,6 @@
 public class Cliente{
-
-    private String email;
+    
+    private final String email;
     private String nombre;
     private int edad;
 
@@ -21,6 +21,6 @@ public class Cliente{
     }
     //setters
     public void set_nombre(String nombre){ this.nombre= nombre;}
-    public void set_edad(int edad){this.edad= edad}
+    public void set_edad(int edad){this.edad= edad;}
 
 }

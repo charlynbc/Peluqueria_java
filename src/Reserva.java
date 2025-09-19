@@ -1,7 +1,5 @@
 public class Reserva{
-    private String servicio;//despues va a aprecer una lista de servicios, puede tener mas de un servicio pero no es
-    //repetido, cada servicio tiene un rango de duracion que se 
-    // va a sumar al tiempo, servicio va a tener tiempo
+    private String servicio;
     private Fecha fecha;
 
     public Reserva(String servicio, Fecha fecha){

@@ -3,3 +3,7 @@ de abierta la peluqueria, y dias tambien, esos quedan reservados
 en cliente el mail es unico
 lista de precios
 se agregamn los servicios
+
+//despues va a aprecer una lista de servicios, puede tener mas de un servicio pero no es
+    //repetido, cada servicio tiene un rango de duracion que se 
+    // va a sumar al tiempo, servicio va a tener tiempo
